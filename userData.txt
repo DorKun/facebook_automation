@@ -1,0 +1,2 @@
+username = 'teestmailaccount@web.de'
+password = 'testaccounttest'
